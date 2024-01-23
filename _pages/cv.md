@@ -14,6 +14,7 @@ Education
 * University of Illinois at Urbana-Champaign
   * PhD Candidate in Computer Science
   * Advised By: Professor Jimeng Sun
+  * GPA: 4.00
 
 * Harvey Mudd College
   * Graduated in 2021 with a B.S. Computer Science and Mathematics
