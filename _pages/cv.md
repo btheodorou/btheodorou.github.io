@@ -32,12 +32,22 @@ Work experience
     * Exploration of predictive modeling using synthetic data
 
 * University Of Illinois At Urbana-Champaign; Champaign, IL
-  * Research Assistant (Fall 2021 - PRESENT)
+  * Research Assistant (August 2021 - PRESENT)
     * Performing research exploring clinical trial optimization with a focus on fairness and interpretability
     * Exploring generative models in the domain of health data
 
-* IQVIA; REMOTE
-  * Machine Learning Intern (Fall 2021 - PRESENT)
+* GE Healthcare; Chicago, IL
+  * Research Intern (January 2024 - PRESENT)
+    * Researching multimodal, multipurpose embedding models for general patient representation
+    * Exploring flexible image embedding architectures for global medical image embedding
+
+* National Institute on Aging; Washington Dc
+  * Research Intern (May 2023 - PRESENT)
+    * Performing research on MRI image/feature generation using the UK Biobank dataset
+    * Exploring challenges of modality imputation, handling low-data settings, and more
+
+* IQVIA; Remote
+  * Machine Learning Intern (October 2021 - December 2023)
     * Working to improve clinical trial site selection to maximize enrollment via advanced deep learning techniques and incorporating multi-modal data sources
     * Exploring fairness-based models to encourage greater diversity in clinical trials
 
